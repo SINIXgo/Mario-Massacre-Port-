@@ -1,12 +1,12 @@
 {
 	"songs": [
 		[
-			"Victimized",
-			"icon-MAR",
+			"A Grand Ol' Time",
+			"icon-gd",
 			[
-				141,
-				69,
-				103
+				24,
+				26,
+				57
 			]
 		]
 	],
@@ -19,14 +19,14 @@
 		"bf",
 		"gf"
 	],
-	"storyName": "Castle go BOOM",
-	"weekName": "Custom Week",
+	"storyName": "GRAND DAD! FLINTSTONES?!?!?!",
+	"weekName": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"hideStoryMode": false,
-	"weekBefore": "week6",
+	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

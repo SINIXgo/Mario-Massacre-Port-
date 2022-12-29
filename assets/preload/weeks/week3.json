@@ -1,22 +1,31 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		[
+			"Ground Zero",
+			"wario",
+			[
+				153,
+				128,
+				47
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
 	"weekCharacters": [
-		"pico",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
+	"storyName": "You want fun? WARIO SHOW YOU FUN!",
+	"weekName": "Wario Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "week2",
+	"startUnlocked": true
 }
